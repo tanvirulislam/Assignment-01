@@ -1,0 +1,25 @@
+.main {
+    margin-top: 10px;
+    min-height: 80px;
+        background-color: #9BC2F9;
+    border: 1px solid blue;
+
+}
+
+
+.logo{
+    margin-top: 5px;
+    min-height: 60px;
+    border: 1px solid red;
+    background-color: #CCDFFD;
+    
+}
+
+.details{
+    min-height: 250px;
+    margin: 10px 0;
+    border: 1px solid red;
+    background-color: #CCDFFD;
+    
+    
+}
